@@ -14,7 +14,7 @@
 
 ## Dubbo的架构
 
-![dubbo1](C:\Users\yuanyulou\Desktop\博客图片\dubbo\dubbo1.png)
+![dubbo1](http://img.shaking.top/dubbo1.png)
 
 | 节点      | 角色说明                               |
 | --------- | -------------------------------------- |
