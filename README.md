@@ -50,7 +50,7 @@
 
 ## Dubbo服务调用公作流程
 
-![dubbo2](C:\Users\yuanyulou\Desktop\博客图片\dubbo\dubbo2.png)
+![dubbo2](http://img.shaking.top/dubbo2.png)
 
 ## Dubbo使用
 
